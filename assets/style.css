@@ -1,9 +1,11 @@
 body {
-	background-color: #5ca2f2;
-	overflow: hidden;
-	position: relative;
-	margin: 0;
-	padding: 0;
+	background-color: #5ca2f2 !important;
+    overflow: hidden;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    z-index: -1;
+    height: 100vh;
 }
 
 a {
