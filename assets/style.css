@@ -10,7 +10,7 @@ body {
 
 a {
 	text-decoration: none;
-	color: black;
+	color: white !important;
 }
 
 .bg-image {
@@ -29,6 +29,7 @@ main {
 	margin:auto;
 	padding:6em;
 	padding-left: 12em;
+	color: white !important;
 }
 
 .series {
