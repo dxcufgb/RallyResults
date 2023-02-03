@@ -66,6 +66,7 @@ main {
 .series-row img {
 	max-height: 100%;
 	max-width: 100%;
+	border-radius: 50%;
 }
 
 .series-logo {
